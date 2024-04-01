@@ -1,5 +1,5 @@
 [package]
-name = "image_processor"
+name = "frameshop"
 authors = ["Seungjin Kim <seungjin@duck.com>"]
 description = "Image processor"
 version = "0.1.0"
